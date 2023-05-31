@@ -1,0 +1,4 @@
+git  init (start git)
+
+git status (red=git add.. , git commit... | green = git commit ... | nothing =...)
+
